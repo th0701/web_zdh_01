@@ -1,0 +1,35 @@
+ERROR log_conf.py 2019-08-20 15:34:00,378 49 Message: invalid argument: invalid locator
+  (Session info: chrome=76.0.3809.100)
+
+ERROR log_conf.py 2019-08-20 15:35:49,763 49 Message: invalid argument: invalid locator
+  (Session info: chrome=76.0.3809.100)
+
+ERROR log_conf.py 2019-08-20 16:05:56,157 49 Message: 
+
+ERROR log_conf.py 2019-08-20 16:06:59,846 49 Message: 
+
+ERROR log_conf.py 2019-08-20 16:09:27,271 49 Message: invalid argument: 'id' out of range
+  (Session info: chrome=76.0.3809.100)
+
+ERROR log_conf.py 2019-08-20 16:12:52,933 49 Message: invalid argument: 'id' out of range
+  (Session info: chrome=76.0.3809.100)
+
+ERROR log_conf.py 2019-08-20 16:16:34,762 49 Message: invalid argument: 'id' out of range
+  (Session info: chrome=76.0.3809.100)
+
+ERROR log_conf.py 2019-08-20 17:37:13,292 49 Message: /html/body/div[1]/div/table/tbody/tr[2]/td/div/table/tbody/tr[2]/td[2]/div/iframe
+
+ERROR log_conf.py 2019-08-20 17:41:12,384 49 'WebElement' object does not support indexing
+ERROR log_conf.py 2019-08-20 17:50:34,937 49 Message: 
+
+ERROR log_conf.py 2019-08-20 17:52:35,350 49 'WebElement' object does not support indexing
+ERROR log_conf.py 2019-08-20 17:54:09,155 49 Message: 
+
+ERROR log_conf.py 2019-08-20 17:55:04,682 49 Message: 
+
+ERROR log_conf.py 2019-08-20 17:56:14,540 49 Message: 
+
+ERROR log_conf.py 2019-08-20 17:57:15,898 49 Message: 
+
+ERROR log_conf.py 2019-08-20 17:59:03,911 49 Message: OpenartDialog15662944365982
+
