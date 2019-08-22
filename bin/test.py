@@ -5,3 +5,4 @@ for i in L:
 
 print(s)
 print(s)
+print(s)
